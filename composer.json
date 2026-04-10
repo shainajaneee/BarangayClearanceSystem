@@ -1,0 +1,13 @@
+{
+    "name": "shaina/barangay-clearance-system",
+    "authors": [
+        {
+            "name": "Shaina Jane Tanguan",
+            "email": "shaynatanguan8@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^7.0",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
