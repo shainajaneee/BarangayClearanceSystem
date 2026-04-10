@@ -2,6 +2,10 @@
 
 A responsive, mobile-first management system designed for local government units to handle clearance requests, resident records, and staff coordination.
 
+**🌐 Live Demo:** [brgy-clearance.page.gd](https://brgy-clearance.page.gd)
+
+---
+
 ## ✨ Features
 - **Responsive Dashboard:** Adaptive layout that switches between a sidebar (Desktop) and a bottom-nav (Mobile).
 - **Clearance Tracking:** Real-time status updates with automated email notifications.
@@ -18,4 +22,4 @@ A responsive, mobile-first management system designed for local government units
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/brgy-system.git](https://github.com/yourusername/brgy-system.git)
+   git clone [https://github.com/shainajaneee/BarangayClearanceSystem.git](https://github.com/shainajaneee/BarangayClearanceSystem.git)
